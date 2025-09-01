@@ -338,9 +338,14 @@ See [CHANGELOG.md](CHANGELOG.md) for a detailed history of changes.
 ---
 
 **Built with ❤️ by the Medhelm Supplies Team**
-#   m e d h e l m - b a c k e n d  
- #   e C o m m e r c e - B a c k e n d  
- #   e C o m m e r c e - B a c k e n d  
- #   e c o m m e r c e - b a c k e n d  
- #   m e d h e l m - s u p p l i e s  
+#   m e d h e l m - b a c k e n d 
+ 
+ #   e C o m m e r c e - B a c k e n d 
+ 
+ #   e C o m m e r c e - B a c k e n d 
+ 
+ #   e c o m m e r c e - b a c k e n d 
+ 
+ #   m e d h e l m - s u p p l i e s 
+ 
  
